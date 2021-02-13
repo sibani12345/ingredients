@@ -1,4 +1,4 @@
 # ingredients
-*oreo biscuits
-*milk
-*chocochips
+- oreo biscuits
+- milk
+- chocochips
